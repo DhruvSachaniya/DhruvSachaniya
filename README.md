@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvsachaniya&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvsachaniya" /> </p>
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://dhruvsachaniya.github.io/Protfolio/](https://dhruvsachaniya.github.io/Protfolio/)
 
